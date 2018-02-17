@@ -9,6 +9,7 @@ Eat the Burger! is a restaurant app that lets users input the names of burgers t
 Check out the app running on heroku here: 
 
 ---
+# Screenshot
 ![Screenshot](https://github.com/tmederos/burger/blob/master/public/assets/img/screen-shot.png)
 
 ---
