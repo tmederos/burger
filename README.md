@@ -30,5 +30,4 @@ Built With
 * Bootstrap
 * MySql Workbench
 
-Author
-Trish Mederos
+Author - Trish Mederos
